@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>level</item>
+        <item>quarter</item>
+        <item>eight</item>
+        <item>kebab</item>
+        <item>track</item>
+        <item>beta</item>
+        <item>VISITORS</item>
+        <item>alien</item>
+
+    </string-array>
+</resources>
